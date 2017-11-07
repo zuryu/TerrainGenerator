@@ -1,0 +1,10 @@
+XnaGameContent\Sprite.xnb
+XnaGameContent\grass1.xnb
+XnaGameContent\rock1.xnb
+XnaGameContent\sand1.xnb
+XnaGameContent\snow1.xnb
+XnaGameContent\grass.xnb
+XnaGameContent\rock.xnb
+XnaGameContent\sand.xnb
+XnaGameContent\snow.xnb
+XnaGameContent\effect3.xnb

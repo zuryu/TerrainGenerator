@@ -1,0 +1,10 @@
+C:\Users\Helen\Documents\Ryu\_FinalProject\Game_118435\Game_118435\GameXna\bin\Debug\XnaGameContent\Sprite.xnb
+C:\Users\Helen\Documents\Ryu\_FinalProject\Game_118435\Game_118435\GameXna\bin\Debug\GameXna.XML
+C:\Users\Helen\Documents\Ryu\_FinalProject\Game_118435\Game_118435\GameXna\bin\Debug\GameXna.exe
+C:\Users\Helen\Documents\Ryu\_FinalProject\Game_118435\Game_118435\GameXna\bin\Debug\GameXna.pdb
+C:\Users\Helen\Documents\Ryu\_FinalProject\Game_118435\Game_118435\GameXna\bin\Debug\FSharp.Core.dll
+C:\Users\Helen\Documents\Ryu\_FinalProject\Game_118435\Game_118435\GameXna\bin\Debug\FSharp.Core.xml
+C:\Users\Helen\Documents\Ryu\_FinalProject\Game_118435\Game_118435\GameXna\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Helen\Documents\Ryu\_FinalProject\Game_118435\Game_118435\GameXna\obj\x86\Debug\GameXna.exe
+C:\Users\Helen\Documents\Ryu\_FinalProject\Game_118435\Game_118435\GameXna\obj\x86\Debug\GameXna.pdb
+C:\Users\Helen\Documents\Ryu\_FinalProject\Game_118435\Game_118435\GameXna\bin\Debug\XnaGameContent\effects.xnb
